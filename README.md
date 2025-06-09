@@ -4,10 +4,10 @@
 
 ---
 
-![Demo Aplikasi WordCraft](./images1.png)
-![Demo Aplikasi WordCraft](./images2.png)
-![Demo Aplikasi WordCraft](./images3.png)
-![Demo Aplikasi WordCraft](./images4.png)
+![Demo Aplikasi WordCraft](images/images1.png)
+![Demo Aplikasi WordCraft](images/images2.png)
+![Demo Aplikasi WordCraft](images/images3.png)
+![Demo Aplikasi WordCraft](images/images4.png)
 
 ---
 
