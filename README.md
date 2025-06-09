@@ -43,8 +43,7 @@
   ```python
   url = f"https://exampleapi.com/lookup?key=YOUR-API-KEY&word={word}"
   ```
-  Gantilah `YOUR-API-KEY` dengan API milik Anda. Untuk pengujian, bisa gunakan API gratis seperti:
-  - https://api.dictionaryapi.dev/
+  Gantilah `YOUR-API-KEY` dengan API milik Anda. Untuk pengujian, bisa gunakan API gratis.
 
 - **Jalankan Aplikasi.**  
   Jalankan program dengan perintah:
